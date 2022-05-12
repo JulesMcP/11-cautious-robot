@@ -13,13 +13,6 @@ This app enables the user to create and save notes to stay organized and keep tr
 - [Screenshot](#screenshot)
 - [Deployed Link](#deployment)
 
-
-## Installation
-
-1. Clone the git repo.
-2. Run npm init in the terminal.
-
-
 ## License
 
 This project is covered under the following license:
