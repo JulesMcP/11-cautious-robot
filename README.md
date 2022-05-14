@@ -39,8 +39,8 @@ Starter code provided by Trilogy.
 HTML, CSS, JavaScript, Node, Path, Express, UUID & Heroku
 
 ## Screenshot
-
+![image](https://user-images.githubusercontent.com/95149604/168443824-f3443674-5990-44fd-8f1f-2435a5df8336.png)
 
 ## Deployed Link
 
-[click here to go to the app!]()
+[Click here to go to the app!](https://intense-wildwood-82777.herokuapp.com/)
