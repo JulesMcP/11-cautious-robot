@@ -41,6 +41,8 @@ HTML, CSS, JavaScript, Node, Path, Express, UUID & Heroku
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/95149604/168443824-f3443674-5990-44fd-8f1f-2435a5df8336.png)
 
+![image](https://user-images.githubusercontent.com/95149604/168443970-0501879d-2420-4618-9a3e-7237f1b77ee4.png)
+
 ## Deployed Link
 
 [Click here to go to the app!](https://intense-wildwood-82777.herokuapp.com/)
